@@ -58,7 +58,7 @@ Course management, multilingual support, flexible CMS-style structure
 
 ## 📬 Contact
 
-[Telegram](https://t.me/ardasher_dev) • [LinkedIn](https://linkedin.com/in/gainazarov) • Email: ardasher@yourdomain.tj
+[Telegram](https://t.me/gainazarov_a) • [LinkedIn](https://www.linkedin.com/in/ardasher-gainazarov-a3b5b9350/) • Email: ardashergainazarov@gmail.com
 
 ---
 
@@ -72,12 +72,6 @@ Course management, multilingual support, flexible CMS-style structure
 </div>
 
 ---
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Привет,+я+Ардашер+Гайназаров;Фуллстек-разработчик+%7C+Продакт-менеджер+%7C+Ментор;Создаю+цифровые+решения+с+умом+и+душой" alt="Typing SVG (RU)" />
-</h1>
 
 ---
 
@@ -131,6 +125,6 @@ React + Django + PostgreSQL + Redis
 
 ## 📬 Контакты
 
-[Telegram](https://t.me/ardasher_dev) • [LinkedIn](https://linkedin.com/in/gainazarov) • Email: ardasher@yourdomain.tj
+[Telegram](https://t.me/gainazarov_a) • [LinkedIn](https://www.linkedin.com/in/ardasher-gainazarov-a3b5b9350/) • Email: ardashergainazarov@gmail.com
 
 ---
